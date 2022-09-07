@@ -1,0 +1,26 @@
+header {
+    background-color: lightgrey;
+}
+
+h2 {
+    background-color: orange;
+    color: blue;
+    text-align: center;
+}
+
+h3 {
+    background-color: palevioletred;
+    color: darkolivegreen;
+    text-align: center;
+}
+
+div.info {
+    width: 50%;
+    border: 1px solid black;
+    margin: auto;
+}
+
+div.info img {
+    width: 100%;
+}
+
